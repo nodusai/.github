@@ -2,6 +2,7 @@
 # Nodus AI
 
 Hey there!, this is Nodus AI 👋
+
 Nodus AI is an open-source, no-code workflow automation platform that empowers you to intelligently connect applications and services. Integrate with over 200 pre-built services or utilize the general connector for anything with an API. Go beyond simple integrations by building AI-driven, multi-step workflows that precisely match your needs. With its MIT license, Nodus AI ensures you always have access to the visible source code and the freedom to self-host. Extend the platform by adding your own custom nodes and tailoring workflows to your specific requirements.
 Check out our main project here.
 
