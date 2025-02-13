@@ -1,28 +1,70 @@
+# NodusAI
 
-# Nodus AI
+**NodusAI** es una plataforma de código abierto diseñada para potenciar la inteligencia artificial y la automatización de procesos en entornos académicos y empresariales. Nuestra misión es democratizar el acceso a herramientas avanzadas de IA, permitiendo a los usuarios integrar y personalizar soluciones de manera sencilla y eficiente.
 
-Hey there!, this is Nodus AI 👋
+## Características Principales
 
-Nodus AI is an open-source, no-code workflow automation platform that empowers you to intelligently connect applications and services. Integrate with over 200 pre-built services or utilize the general connector for anything with an API. Go beyond simple integrations by building AI-driven, multi-step workflows that precisely match your needs. With its MIT license, Nodus AI ensures you always have access to the visible source code and the freedom to self-host. Extend the platform by adding your own custom nodes and tailoring workflows to your specific requirements.
-Check out our main project here.
+- **Facilidad de Uso**: Interfaz intuitiva y documentación detallada para que cualquier persona, sin importar su nivel de experiencia, pueda comenzar a usar NodusAI rápidamente.
+- **Extensible y Personalizable**: Gracias a su arquitectura modular, NodusAI permite a los desarrolladores extender y adaptar la plataforma a sus necesidades específicas.
+- **Integración con Herramientas Populares**: Compatible con una amplia gama de servicios y APIs, facilitando la integración con tus herramientas existentes.
+- **Comunidad Activa**: Únete a una comunidad en crecimiento de desarrolladores, investigadores y entusiastas de la IA que contribuyen y colaboran en el proyecto.
 
-Interested in working for Nodus AI? See our open positions.
-Learn more how to self-host Nodus AI in our docs.
-Want to quickly test out Nodus AI? Download our desktop app to see what the fuss is all about.
-Not interested in hosting Nodus AI yourself? We also offer Nodus AI cloud for a monthly fee.
-Both our team and our users have been building a workflow template library to help others easily get started with Nodus AI automations.
+## ¿Por Qué Elegir NodusAI?
+
+En un mundo donde la inteligencia artificial y la automatización son cada vez más críticas, NodusAI se destaca por su enfoque en la accesibilidad y la flexibilidad. A diferencia de otras soluciones, NodusAI está diseñado específicamente para ser utilizado en entornos académicos, lo que lo convierte en la elección perfecta para universidades y centros de investigación.
+
+## Empezando
+
+Para comenzar con **NodusAI**, sigue estos sencillos pasos:
+
+### Clona el Repositorio:
+
+```bash
+git clone https://github.com/nodusai/nodusai.git
+```
+
+### Instala las Dependencias:
+
+```bash
+cd nodusai
+npm install
+```
+
+### Inicia el Servidor:
+
+```bash
+npm start
+```
+
+### Accede a la Interfaz:
+
+Abre tu navegador y visita [http://localhost:8888](http://localhost:8888) para comenzar a usar NodusAI.
+
+## Documentación
+
+Para aprovechar al máximo NodusAI, consulta nuestra documentación completa, donde encontrarás guías detalladas, ejemplos prácticos y referencias de la API.
+
+- **Documentación en línea**: Accede a la documentación oficial en [docs.nodusai.com](http://docs.nodusai.com).
+- **Guías paso a paso**: Aprende a configurar y usar NodusAI con nuestras guías para principiantes.
+- **Referencia de la API**: Explora la documentación técnica de la API en [API Reference](http://docs.nodusai.com/api/reference).
 
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+## Comunidad y Soporte 
 
-## Getting Started
-Instructions on how to get started with the project.
+¡Únete a nuestra comunidad y obtén soporte! Estamos aquí para ayudarte en cada paso del camino. Puedes contactarnos a través de los siguientes canales:
 
-## Contributing
-Guidelines on how to contribute to the project.
+- **Discord**: Únete a nuestra comunidad en [Discord](https://discord.com/channels/) para discutir ideas, hacer preguntas y colaborar con otros desarrolladores.
+- **Email**: Para soporte directo, escríbenos a [support@nodusai.com](mailto:support@nodusai.com).
+- **Foro Comunitario**: Participa en discusiones, comparte tus proyectos y resuelve dudas en nuestro Foro Comunitario.
+- **Twitter**: Síguenos en [Twitter](https://x.com/nodus_ai) para estar al tanto de las últimas novedades, actualizaciones y anuncios.
 
-## License
-Details about the license.
+
+## Contribuciones
+
+¡Tu contribución es bienvenida! Si deseas contribuir al desarrollo de NodusAI, por favor lee nuestra [guía de contribuciones](https://nodusai.com/contributing) y sigue el proceso de envío de pull requests.
+
+
+## Licencia
+
+**NodusAI** está licenciado bajo la [Licencia MIT](https://github.com/nodusai/nodusai/blob/main/LICENSE), lo que significa que puedes usarlo, modificarlo y distribuirlo libremente.
+
