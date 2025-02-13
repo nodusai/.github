@@ -45,7 +45,9 @@ Abre tu navegador y visita [http://localhost:8888](http://localhost:8888) para c
 Para aprovechar al máximo NodusAI, consulta nuestra documentación completa, donde encontrarás guías detalladas, ejemplos prácticos y referencias de la API.
 
 - **Documentación en línea**: Accede a la documentación oficial en [docs.nodusai.com](http://docs.nodusai.com).
-- **Guías paso a paso**: Aprende a configurar y usar NodusAI con nuestras guías para principiantes.
+
+- **Guías paso a paso**: Aprende a configurar y usar NodusAI con nuestras [guías](https://docs.nodusai.com/guides/guetting-starting) para principiantes.
+
 - **Referencia de la API**: Explora la documentación técnica de la API en [API Reference](http://docs.nodusai.com/api/reference).
 
 
