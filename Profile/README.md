@@ -1,6 +1,6 @@
 # **Nodus AI** 
 
-### Plataforma Self-Hosted, Open-Source, No-Code, de Automatización de flujos de trabajo potenciada por IA.
+### Plataforma Self-Hosted, Open-Source, No-Code, de Automatización de flujos de trabajo potenciados por IA.
 
 **Nodus AI** es una plataforma de código abierto diseñada para potenciar la automatización de procesos y flujos de trabajo con inteligencia artificial en entornos académicos y empresariales. Nuestra misión es permitir a los usuarios integrar y personalizar diferentes tipos de data y aplciaciones de manera sencilla y eficiente.
 
